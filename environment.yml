@@ -7,13 +7,8 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - geopandas
-  - contextily
-  - rasterio
-  - scipy
-  - cartopy
-  - xarray
-  - openblas==0.2.19
-  - netcdf4==1.5.1
+  - glob
+  - os
+  - datetime
 
 
