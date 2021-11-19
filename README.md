@@ -1,8 +1,8 @@
-# NOAA Coral Reef Watch's CoralTemp: Dataset Overview and Use Case Example
+# EDS 220 (Fall 2021): NOAA Coral Reef Watch's CoralTemp: Dataset Overview and Use Case Example
+
 ## CRCM-Science - Using the CoralTemp Dataset for Climate Resilient Coral Modeling (CRCM)
 
-# EDS 220, Fall 2021
-# Authors
+### Authors
 - Alex Clippinger, Bren School of Environmental Science & Management, (alexclippinger@ucsb.edu) 
 - Charles Hendrickson, Bren School of Environmental Science & Management, (c_d_h@ucsb.edu)
 - Connor Flynn, Bren School of Environmental Science & Management, (connorflynn@ucsb.edu)
