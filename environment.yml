@@ -7,8 +7,5 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - glob
-  - os
-  - datetime
 
 
