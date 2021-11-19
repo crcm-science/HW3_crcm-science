@@ -16,8 +16,4 @@ Repository Contents:
 - HW3_CoralTemp_Tutorial.ipynb: Jupyter notebook containing all dataset details and working code examples.
 - environment.yml: environment file for use in creating Binder environment for running Jupyter notebook
 
-
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/crcm-science/HW3_crcm-science/HEAD
- .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/crcm-science/HW3_crcm-science/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crcm-science/HW3_crcm-science/HEAD)
